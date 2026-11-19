@@ -23,6 +23,7 @@ Real-time dual-band (2.4 GHz & 5 GHz) Software-Defined Radio for **CT3003 (Media
 - `kernel/wm_sdr/` — `/dev/wmsdr` driver (`wm_sdr.ko`) with WFDMA `mmap()` and async multi-stream TX
 - `kernel/wmrom/` — WM ROM dump helper module (`wmrom.ko`)
 - `host/` — `wmsdr` CLI/HTTP/WS server and `host/web/` browser UI
+- [TECH_SHARE.md](TECH_SHARE.md) — Background, reverse-engineering overview, and design notes
 
 ## Quick Start (Router)
 
