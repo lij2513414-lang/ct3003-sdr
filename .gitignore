@@ -1,0 +1,11 @@
+*.o
+*.ko.unsigned
+*.mod
+*.mod.c
+*.order
+*.symvers
+.*.cmd
+.tmp_versions/
+__pycache__/
+*.pyc
+.DS_Store

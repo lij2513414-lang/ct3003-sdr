@@ -1,0 +1,2 @@
+obj-m += wm_sdr.o
+wm_sdr-y := wm_sdr_main.o wm_sdr_remap.o wm_sdr_wfdma.o wm_sdr_net.o
