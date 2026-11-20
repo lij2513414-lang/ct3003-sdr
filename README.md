@@ -2,6 +2,11 @@
 
 Real-time dual-band (2.4 GHz & 5 GHz) Software-Defined Radio for **CT3003 (MediaTek MT7981B + MT7976CN)** routers, running alongside stock `mt_wifi` APs without disrupting Wi-Fi.
 
+A better web in [ct3003-sdr-web](https://github.com/lij2513414-lang/ct3003-sdr-web)
+
+<img width="2557" height="1254" alt="2026-11-20 152400" src="https://github.com/user-attachments/assets/c4b7d8c5-b95f-44bc-9551-ccf99cba07a9" />
+
+
 ## Features
 
 - **Dual-band IQ capture (`mode=1`)**: `80 Msps` on 2.4 GHz (`160 Msps` on 5 GHz `>=80M`, `40 Msps` on RXFD Node 6), up to `16384` words/frame.
